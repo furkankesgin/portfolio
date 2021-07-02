@@ -1,0 +1,68 @@
+{
+    "portfolios": [
+        {
+            "id": 1,
+            "category": "Lesson",
+            "image": "../img/portImages/portfolioItem-1.png",
+            "link1": "/fsf",
+            "title": "Instructional Design Problem",
+            "text": ""
+        },
+        {
+            "id": 2,
+            "category": "Lesson",
+            "image": "../img/portImages/portfolioItem-2.png",
+            "link1": "https://www.google.com",
+            "title": "Web Design Project",
+            "text": ""
+        },
+        {
+            "id": 3,
+            "category": "Lesson",
+            "image": "../img/portImages/portfolioItem-3.png",
+            "link1": "https://www.google.com",
+            "title": "Coding Platform Demo",
+            "text": ""
+        },
+        {
+            "id": 4,
+            "category": "Lesson",
+            "image": "../img/portImages/portfolioItem-4.png",
+            "link1": "https://www.google.com",
+            "title": "Cyber Security MSC Project",
+            "text": ""
+        },
+        {
+            "id": 5,
+            "category": "Coding",
+            "image": "../img/portImages/portfolioItem-5.png",
+            "link1": "https://www.google.com",
+            "title": "Video Converter",
+            "text": ""
+        },
+        {
+            "id": 6,
+            "category": "Coding",
+            "image": "../img/portImages/portfolioItem-6.png",
+            "link1": "https://www.google.com",
+            "title": "Arduino Smart Home Project",
+            "text": ""
+        },
+        {
+            "id": 7,
+            "category": "Coding",
+            "image": "../img/portImages/portfolioItem-7.png",
+            "link1": "https://www.google.com",
+            "title": "Remote Administration Tool",
+            "text": ""
+        },
+        {
+            "id": 8,
+            "category": "Coding",
+            "image": "../img/portImages/portfolioItem-8.png",
+            "link1": "https://www.google.com",
+            "title": "Minesweeper in terminal",
+            "text": ""
+        }
+    ]
+}
